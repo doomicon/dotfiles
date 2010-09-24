@@ -1,6 +1,7 @@
 # enable color support of ls and also add handy aliases
     alias ls='ls --color=auto'
     alias ll='ls -l'
+    alias lr='ls -lart'
     #alias dir='ls --color=auto --format=vertical'
     #alias vdir='ls --color=auto --format=long'
     #alias grep='grep --color=auto'
