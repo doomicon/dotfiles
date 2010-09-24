@@ -12,5 +12,4 @@
 #alias l='ls -CF'
 alias gitco='git checkout'
 alias gitci='git commit'
-alias lr='ls -lart'
-
+alias gor='git push origin'
