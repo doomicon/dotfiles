@@ -14,3 +14,5 @@
 alias gitco='git checkout'
 alias gitci='git commit'
 alias gor='git push origin'
+alias gits='git status'
+alias gb='git branch'
