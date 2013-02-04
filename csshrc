@@ -1,0 +1,219 @@
+tpadlpm = tpadlpm01.gratiscard.com tpadlpm02.gratiscard.com
+
+tpadlnda = tpadlnda01.gratiscard.com tpadlnda02.gratiscard.com
+
+tpadlndp = tpadlndp01.gratiscard.com tpadlndp02.gratiscard.com
+
+tpadlnds = tpadlnds01.gratiscard.com tpadlnds02.gratiscard.com
+
+tpadlnd = tpadlnda tpadlndp tpadlnds
+
+tpadlnd1 = tpadlnda01.gratiscard.com tpadlndp01.gratiscard.com tpadlnds01.gratiscard.com
+
+tpadlnd2 = tpadlnda02.gratiscard.com tpadlndp02.gratiscard.com tpadlnds02.gratiscard.com
+
+soad1 = tpadlpm01.gratiscard.com tpadlnd1
+
+soad2 = tpadlpm02.gratiscard.com tpadlnd2
+
+soad = tpadlpm tpadlnd
+
+tpaqlpm = tpaqlpm01.gratiscard.com tpaqlpm02.gratiscard.com
+
+tpaqlnda = tpaqlnda01.gratiscard.com tpaqlnda02.gratiscard.com
+
+tpaqlndp = tpaqlndp01.gratiscard.com tpaqlndp02.gratiscard.com
+
+tpaqlnds = tpaqlnds01.gratiscard.com tpaqlnds02.gratiscard.com
+
+tpaqlnd = tpaqlnda tpaqlndp tpaqlnds
+
+tpaqlnd1 = tpaqlnda01.gratiscard.com tpaqlndp01.gratiscard.com tpaqlnds01.gratiscard.com
+
+tpaqlnd2 = tpaqlnda02.gratiscard.com tpaqlndp02.gratiscard.com tpaqlnds02.gratiscard.com
+
+soaq1 = tpaqlpm01.gratiscard.com tpaqlnd1
+
+soaq2 = tpaqlpm02.gratiscard.com tpaqlnd2
+
+soaq = tpaqlpm tpaqlnd
+
+tpaulpm = tpaulpm01.gratiscard.com tpaulpm02.gratiscard.com
+
+tpaulnda = tpaulnda01.gratiscard.com tpaulnda02.gratiscard.com
+
+tpaulndp = tpaulndp01.gratiscard.com tpaulndp02.gratiscard.com
+
+tpaulnds = tpaulnds01.gratiscard.com tpaulnds02.gratiscard.com
+
+tpaulnd = tpaulnda tpaulndp tpaulnds
+
+tpaulnd1 = tpaulnda01.gratiscard.com tpaulndp01.gratiscard.com tpaulnds01.gratiscard.com
+
+tpaulnd2 = tpaulnda02.gratiscard.com tpaulndp02.gratiscard.com tpaulnds02.gratiscard.com
+
+soau1 = tpaulpm01.gratiscard.com tpaulnd1
+
+soau2 = tpaulpm02.gratiscard.com tpaulnd2
+
+soau = tpaulpm tpaulnd
+
+tpaplpm = tpaplpm01.gratiscard.com tpaplpm02.gratiscard.com
+
+tpaplnda = tpaplnda01.gratiscard.com tpaplnda02.gratiscard.com
+
+tpaplndp = tpaplndp01.gratiscard.com tpaplndp02.gratiscard.com
+
+tpaplnds = tpaplnds01.gratiscard.com tpaplnds02.gratiscard.com
+
+tpaplnd = tpaplnda tpaplndp tpaplnds
+
+tpaplnd1 = tpaplnda01.gratiscard.com tpaplndp01.gratiscard.com tpaplnds01.gratiscard.com
+
+tpaplnd2 = tpaplnda02.gratiscard.com tpaplndp02.gratiscard.com tpaplnds02.gratiscard.com
+
+soap1 = tpaplpm01.gratiscard.com tpaplnd1
+
+soap2 = tpaplpm02.gratiscard.com tpaplnd2
+
+soap = tpaplpm tpaplnd
+
+stpldbs = stpdldb101 stpdldb102
+
+stpdldbs = stpdldb101 stpdldb102
+
+tpaldbs = tpadldb101 tpadldb102 tpadldb601 tpadldb602 tpadldb701 tpadldb702 tpaqldb101 tpaqldb102 tpauldb01 tpauldb101 tpauldb102 tpapldb04 tpapldb08 tpapldb09 tpapldb101 tpapldb102 tpapldb103 tpapldb203 tpapldb204 tpapldb301 tpapldb302 tpapldb303 tpapldb401 tpapldb402 tpapldb501 tpapldb502 tpapldb601 tpapldb602 tpapldb701 tpapldb702
+
+tpadldbs = tpadldb101 tpadldb102 tpadldb601 tpadldb602 tpadldb701 tpadldb702
+
+tpaqldbs = tpaqldb101 tpaqldb102
+
+tpauldbs = tpauldb01 tpauldb101 tpauldb102
+
+tpapldbs = tpapldb04 tpapldb08 tpapldb09 tpapldb101 tpapldb102 tpapldb103 tpapldb203 tpapldb204 tpapldb301 tpapldb302 tpapldb303 tpapldb401 tpapldb402 tpapldb501 tpapldb502 tpapldb601 tpapldb602 tpapldb701 tpapldb702
+
+cltldbs = cltpldb04 cltpldb05 cltpldb101 cltpldb102 cltpldb201 cltpldb202 cltpldb601 cltpldb701
+
+cltpldbs = cltpldb04 cltpldb05 cltpldb101 cltpldb102 cltpldb201 cltpldb202 cltpldb601 cltpldb701
+
+devdbs = stpdldb101 stpdldb102 tpadldb101 tpadldb102 tpadldb601 tpadldb602 tpadldb701 tpadldb702
+
+qadbs = tpaqldb101 tpaqldb102
+
+uatdbs = tpauldb01 tpauldb101 tpauldb102
+
+proddbs = cltpldb04 cltpldb05 cltpldb101 cltpldb102 cltpldb201 cltpldb202 cltpldb601 cltpldb701 tpapldb04 tpapldb08 tpapldb09 tpapldb101 tpapldb102 tpapldb103 tpapldb203 tpapldb204 tpapldb301 tpapldb302 tpapldb303 tpapldb401 tpapldb402 tpapldb501 tpapldb502 tpapldb601 tpapldb602 tpapldb701 tpapldb702
+
+alldbs = devdbs qadbs uatdbs proddbs
+
+NonAD = cltpldb04 cltpldb05 cltpldb101 cltpldb102 cltpldb201 cltpldb202 cltpldb601 cltpldb701 cltpldns01 cltpldns02 cltpllog01 stpdlgsc02 tpadldb101 tpadldb102 tpadldb10 tpadlnda01 tpadlnda02 tpadlndp01 tpadlndp02 tpadlnds01 tpadlnds02 tpadlpm01 tpadlpm02 tpaplap02 tpaplap03 tpaplap04 tpaplapc03 tpaplapc04 tpaplcam01 tpaplcam02 tpapldb04 tpapldb08 tpapldb09 tpapldb11 tpapldb203 tpapldb204 tpapldb301 tpapldb302 tpapldb303 tpapldb401 tpapldb402 tpapldb501 tpapldb502 tpapldns01 tpapldns02 tpapldns0 tpapldpm01 tpapledi02 tpaplem03 tpaplfsh01 tpaplkvm101 tpaplkvm102 tpaplkvm103 tpapllog01 tpapllog02 tpapllog03 tpaplma01 tpaplma02 tpaplma03 tpaplma04 tpaplmdb01 tpaplnbm01 tpaplnbm02 tpaplnda01 tpaplnda02 tpaplndp01 tpaplndp02 tpaplnds01 tpaplnds02 tpaplof03 tpaplof04 tpaplpdb01 tpaplpm01 tpaplpm02 tpaplrep01 tpaplsat01 tpaplsmb01 tpaplsvn01 tpaplxen01 tpaqldb101 tpaqldb102 tpaqlnda01 tpaqlndp01 tpaqlnds01 tpaqlpm01 tpaqlpm02 tpauldb01 tpaulma01 tpaulma02 tpaulnda01 tpaulnda02 tpaulndp01 tpaulndp02 tpaulnds01 tpaulnds02 tpaulpm01 tpaulpm02
+
+somdev =  tpadlmc101v tpadlmc102v tpadlmdb01v tpadlmdb02v tpadlmdb101v tpadlmdb102v tpadlmdb201v tpadlmdb202v tpadlswa101v tpadlswa102v tpadlswa201v tpadlswa202v tpadlswa301v tpadlswa302v tpadlswl101v tpadlswl102v tpadlswl201v tpadlswl202v tpadlswl301v tpadlswl302v tpadlswl401v tpadlswl402v tpadltng101v tpadltng102v tpadlcnt01v tpadlcnt02v
+
+somuat = tpaulmc101v tpaulmc102v tpaulmdb01v tpaulmdb02v tpaulmdb101v tpaulmdb102v tpaulmdb201v tpaulmdb202v tpaulswa101v tpaulswa102v tpaulswa201v tpaulswa202v tpaulswa301v tpaulswa302v tpaulswl101v tpaulswl102v tpaulswl201v tpaulswl202v tpaulswl301v tpaulswl302v tpaulswl401v tpaulswl402v tpaultng101v tpaultng102v tpaulot01v
+
+TMPwork = tulswa102v tpaulswa201v tpaulswa202v tpaulswa301v tpaulswa302v tpaulswl101v tpaulswl102v tpaulswl201v tpaulswl202v tpaulswl301v tpaulswl302v tpaulswl401v tpaulswl402v
+
+somuatswl1 = tpaulswl101v tpaulswl102v
+
+somuatswl2 = tpaulswl201v tpaulswl202v
+
+somuatswl3 = tpaulswl301v tpaulswl302v
+
+somuatswl4 = tpaulswl401v tpaulswl402v
+
+somuatswl = tpaulswl101v tpaulswl102v tpaulswl201v tpaulswl202v tpaulswl301v tpaulswl302v tpaulswl401v tpaulswl402v
+
+somuatswa1 = tpaulswa101v.uat.sometrics.com tpaulswa102v.uat.sometrics.com
+
+somuatswa2 = tpaulswa201v.uat.sometrics.com tpaulswa202v.uat.sometrics.com
+
+somuatswa3 = tpaulswa301v.uat.sometrics.com tpaulswa302v.uat.sometrics.com
+
+somuatswa = somuatswa1 somuatswa2 somuatswa3
+
+somuattng = tpaultng101v tpaultng102v
+
+somuatmc = tpaulmc101v tpaulmc102v
+
+somuatoc = tpaulot01v
+
+somuatmisc = somuattng somuatmc somuatoc
+
+somdevswl1 = tpadlswl101v tpadlswl102v
+
+somdevswl2 = tpadlswl201v tpadlswl202v
+
+somdevswl3 = tpadlswl301v tpadlswl302v
+
+somdevswl4 = tpadlswl401v tpadlswl402v
+
+somdevswl = somdevswl1 somdevswl2 somdevswl3 somdevswl4
+
+somdevswa1 = tpadlswa101v.dev.sometrics.com tpadlswa102v.dev.sometrics.com
+
+somdevswa2 = tpadlswa201v tpadlswa202v
+
+somdevswa3 = tpadlswa301v tpadlswa302v
+
+somdevswa = somdevswa1 somdevswa2 somdevswa3
+
+somdevmdb = tpadlmdb101v tpadlmdb102v tpadlmdb201v tpadlmdb202v tpadlmdb01v tpadlmdb02v
+
+somdevmdb1 = tpadlmdb101v tpadlmdb102v
+
+somdevtng = tpadltng101v tpadltng102v
+
+somdevmc = tpadlmc101v tpadlmc102v
+
+somdevcnt = tpadlcnt01v tpadlcnt02v
+
+somdevmisc = somdevtng somdevmc
+
+somprodhadoop = tpaplhdp01 tpaplhdp02 tpaplhdp03 tpaplhdp04
+
+somprodswl1 = tpaplswl101v.tpa.sometrics.com tpaplswl102v.tpa.sometrics.com tpaplswl103v.tpa.sometrics.com tpaplswl104v.tpa.sometrics.com tpaplswl105v.tpa.sometrics.com tpaplswl106v.tpa.sometrics.com tpaplswl107v.tpa.sometrics.com tpaplswl108v.tpa.sometrics.com
+
+somprodswl2 = tpaplswl201v.tpa.sometrics.com tpaplswl202v.tpa.sometrics.com tpaplswl203v.tpa.sometrics.com
+
+somprodswl3 = tpaplswl301v.tpa.sometrics.com tpaplswl302v.tpa.sometrics.com tpaplswl303v.tpa.sometrics.com tpaplswl304v.tpa.sometrics.com
+
+somprodswl4 = tpaplswl401v.tpa.sometrics.com tpaplswl402v.tpa.sometrics.com
+
+somprodswl  = somprodswl1 somprodswl2 somprodswl3 somprodswl4
+
+somprodswa1 = tpaplswa101v.tpa.sometrics.com tpaplswa102v.tpa.sometrics.com tpaplswa103v.tpa.sometrics.com tpaplswa104v.tpa.sometrics.com tpaplswa105v.tpa.sometrics.com tpaplswa106v.tpa.sometrics.com tpaplswa107v.tpa.sometrics.com tpaplswa108v.tpa.sometrics.com
+
+somprodswa2 = tpaplswa201v.tpa.sometrics.com tpaplswa202v.tpa.sometrics.com
+
+somprodswa3 = tpaplswa301v.tpa.sometrics.com tpaplswa302v.tpa.sometrics.com
+
+somprodswa  = somprodswa1 somprodswa2 somprodswa3
+
+somprodmc   = tpaplmc101v.tpa.sometrics.com tpaplmc102v.tpa.sometrics.com tpaplmc103v.tpa.sometrics.com tpaplmc104v.tpa.sometrics.com
+
+somprodtng  = tpapltng101v.tpa.sometrics.com tpapltng102v.tpa.sometrics.com tpapltng103v.tpa.sometrics.com tpapltng104v.tpa.sometrics.com
+
+somprodmisc = somprodmc somprodtng tpaplsvn02v somprodhadoop tpaplnag01v
+
+somprodmdb0 = tpaplmdb01.tpa.sometrics.com tpaplmdb02.tpa.sometrics.com
+
+somprodmdb1 = tpaplmdb101.tpa.sometrics.com tpaplmdb102.tpa.sometrics.com
+
+somprodmdb2 = tpaplmdb201.tpa.sometrics.com tpaplmdb202.tpa.sometrics.com
+
+somprodmdb  = somprodmdb0 somprodmdb1 somprodmdb2
+
+somuatmdb0 = tpaulmdb01v tpaulmdb02v
+
+somuatmdb1 = tpaulmdb101v tpaulmdb102v
+
+somuatmdb2 = tpaulmdb201v tpaulmdb202v
+
+somuatmdb = somuatmdb1 somuatmdb2 somuatmdb0
+
+somprod     = somprodswl somprodswa somprodmc somprodtng somprodmdb 
+
+somswa = somdevswa somuatswa somprodswa
+
+clusters = tpadlpm tpadlnda tpadlndp tpadlnds tpadlnd tpadlnd1 tpadlnd2 soad1 soad2 soadt tpaqlpm tpaqlnda tpaqlndp tpaqlnds tpaqlnd tpaqlnd1 tpaqlnd2 soaq1 soaq2 soaqt  tpaulpm tpaulnda tpaulndp tpaulnds tpaulnd tpaulnd1 tpaulnd2 soau1 soau2 soau tpaplpm tpaplnda tpaplndp tpaplnds tpaplnd tpaplnd1 tpaplnd2 soap1 soap2 soap stpldbs stpdldbs tpaldbs tpadldbs tpaqldbs tpauldbs tpapldbs cltldbs cltpldbs devdbs qadbs uatdbs proddbs alldbs NonAD somdev somuat TMPwork somprodswl1 somprodswl2 somprodswl3 somprodswl4 somprodswl somprodswa1 somprodswa2 somprodswa3 somprodswa somprodmc somprodtng somprodmdb0 somprodmdb1 somprodmdb2 somprodmdb somprod somuatswl1 somuatswa1 somuatswl2 somuatswl3 somuatswl4 somuatswl somuatswa2 somuatswa3 somdevswl1 somdevswl2 somdevswl3 somdevswl4 somdevswl somdevswa somdevswa2 somdevswa3 somdevmdb1 somdevmdb somdevtng somdevmc somdevcnt somdevmisc somuatmdb0 somuatmdb1 somuatmdb2 somuatmdb somuattng somprodhadoop somuatswa somdevswa1 somswa somuatmc somuatoc somuatmisc somprodmisc
